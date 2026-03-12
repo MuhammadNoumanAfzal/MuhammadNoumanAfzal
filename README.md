@@ -132,9 +132,7 @@ AI Integrations • Workflow Automation • Node Automation
 # 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/muhammadnoumanafzal/muhammadnoumanafzal/output/github-contribution-grid-snake.svg">
-
+  <img src="https://raw.githubusercontent.com/MuhammadNoumanAfzal/MuhammadNoumanAfzal/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
