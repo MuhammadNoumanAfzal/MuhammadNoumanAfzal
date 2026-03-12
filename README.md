@@ -119,15 +119,9 @@ AI Integrations • Workflow Automation • Node Automation
 
 ---
 
-# 📈 Contribution Graph
 
-<p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadnoumanafzal&theme=tokyo-night"/>
 
-</p>
-
----
 
 # 🐍 Contribution Snake
 
