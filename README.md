@@ -41,19 +41,52 @@ I'm a **results-driven Full Stack Developer** with deep expertise in **MERN Stac
 
 ## 🏆 Live Client Projects — Real-World Full Stack Delivery
 
-> 🔥 **10+ production apps** shipped for real clients. Here's a snapshot:
-🌐 Project Name & Link	🛠️ Tech Stack	📌 Description
-🍽️ Catering Bestilling NO (Vendor Panel)	React · Node.js · MongoDB	Norwegian catering order & booking platform (Vendor Side)
-🍽️ Catering Bestilling NO	React · Node.js · MongoDB	Norwegian catering order & booking platform (Client Side)
-🏢 Global Minds Consultants	Full Stack	Consultancy & business services platform
-🖥️ Exlon Tech POS	Next.js · Full Stack	POS system for distribution & retail management
-📈 HQA Fund	Next.js · Laravel · MySQL	Financial investment & fund management portal
-🎮 The Genius Arena	MERN Stack	Real-time gaming tournament management system
-🛒 Asomaa	React · Node.js	Modern e-commerce platform with smooth UX
-💐 Iqbal Flower Shop	React · Laravel	Local flower shop e-commerce system
-📊 Alpha Trading Society	Next.js · Node.js	Trading community & education platform
-🕌 HQuran Academy	React · Laravel	Online Quran learning & student management system
-🏢 Exlon Tech	Next.js · Full Stack	Corporate tech company website & services
+
+🔥 **10+ production applications successfully shipped for global clients.**
+
+*   **🍽️ [Catering Bestilling NO (Vendor Panel)](https://catering-bestilling-no-vendor-panel.vercel.app/)**
+    *   *Stack:* `React` · `Node.js` · `MongoDB`
+    *   *Description:* Norwegian catering order & booking platform (Vendor Side)
+
+*   **🍽️ [Catering Bestilling NO](https://catering-bestilling-no.vercel.app/)**
+    *   *Stack:* `React` · `Node.js` · `MongoDB`
+    *   *Description:* Norwegian catering order & booking platform (Client Side)
+
+*   **🏢 [Global Minds Consultants](https://globalmindsconsultants.com/)**
+    *   *Stack:* `Full Stack`
+    *   *Description:* Consultancy & business services platform
+
+*   **🖥️ [Exlon Tech POS](https://distribution.exlontech.com/)**
+    *   *Stack:* `Next.js` · `Full Stack`
+    *   *Description:* Distribution system, POS system for retail management
+
+*   **📈 [HQA Fund](https://hqafund.org/)**
+    *   *Stack:* `Next.js` · `Laravel` · `MySQL`
+    *   *Description:* Financial investment & fund management portal
+
+*   **🎮 [The Genius Arena](https://thegeniusarena.com/)**
+    *   *Stack:* `MERN Stack`
+    *   *Description:* Real-time gaming tournament management system
+
+*   **🛒 [Asomaa](https://asomaa.com/)**
+    *   *Stack:* `React` · `Node.js`
+    *   *Description:* Modern e-commerce platform with smooth UX
+
+*   **💐 [Iqbal Flower Shop](https://iqbalflowershopsargodha.com/)**
+    *   *Stack:* `React` · `Laravel`
+    *   *Description:* Local flower shop e-commerce system
+
+*   **📊 [Alpha Trading Society](https://alphatradingsociety.com/)**
+    *   *Stack:* `Next.js` · `Node.js`
+    *   *Description:* Trading community & education platform
+
+*   **🕌 [HQuran Academy](https://hquranacademy.com/)**
+    *   *Stack:* `React` · `Laravel`
+    *   *Description:* Online Quran learning & student management system
+
+*   **🏢 [Exlon Tech](https://exlontech.com/)**
+    *   *Stack:* `Next.js` · `Full Stack`
+    *   *Description:* Corporate tech company website & services
 
 > 📁 **More projects on my [Portfolio →](https://noumanportfolio.vercel.app/)**
 
