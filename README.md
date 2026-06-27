@@ -42,41 +42,18 @@ I'm a **results-driven Full Stack Developer** with deep expertise in **MERN Stac
 ## 🏆 Live Client Projects — Real-World Full Stack Delivery
 
 > 🔥 **10+ production apps** shipped for real clients. Here's a snapshot:
-
-| 🌐 Project | 🛠️ Stack | 📌 Description |
-|---|---|---|
-| 🍽️ Catering Bestilling NO (Vendor Panel) | React · Node.js · MongoDB | Norwegian catering order & booking platform |
-| https://catering-bestilling-no-vendor-panel.vercel.app/ |
-
-| 🍽️ Catering Bestilling NO | React · Node.js · MongoDB | Norwegian catering order & booking platform |
-| https://catering-bestilling-no.vercel.app/ |
-
-| 🏢 Global Minds Consultants | Full Stack | Consultancy & business services platform |
-| https://globalmindsconsultants.com/ |
-
-| 🖥️ Exlon Tech POS (Distribution System) | Next.js · Full Stack | POS system for distribution & retail management |
-| https://distribution.exlontech.com/ |
-
-| 📈 HQA Fund | Next.js · Laravel · MySQL | Financial investment & fund management portal |
-| https://hqafund.org/ |
-
-| 🎮 The Genius Arena | MERN Stack | Real-time gaming tournament management system |
-| https://thegeniusarena.com/ |
-
-| 🛒 Asomaa | React · Node.js | Modern e-commerce platform with smooth UX |
-| https://asomaa.com/ |
-
-| 💐 Iqbal Flower Shop | React · Laravel | Local flower shop e-commerce system |
-| https://iqbalflowershopsargodha.com/ |
-
-| 📊 Alpha Trading Society | Next.js · Node.js | Trading community & education platform |
-| https://alphatradingsociety.com/ |
-
-| 🕌 HQuran Academy | React · Laravel | Online Quran learning & student management system |
-| https://hquranacademy.com/ |
-
-| 🏢 Exlon Tech | Next.js · Full Stack | Corporate tech company website & services |
-| https://exlontech.com/ |
+🌐 Project Name & Link	🛠️ Tech Stack	📌 Description
+🍽️ Catering Bestilling NO (Vendor Panel)	React · Node.js · MongoDB	Norwegian catering order & booking platform (Vendor Side)
+🍽️ Catering Bestilling NO	React · Node.js · MongoDB	Norwegian catering order & booking platform (Client Side)
+🏢 Global Minds Consultants	Full Stack	Consultancy & business services platform
+🖥️ Exlon Tech POS	Next.js · Full Stack	POS system for distribution & retail management
+📈 HQA Fund	Next.js · Laravel · MySQL	Financial investment & fund management portal
+🎮 The Genius Arena	MERN Stack	Real-time gaming tournament management system
+🛒 Asomaa	React · Node.js	Modern e-commerce platform with smooth UX
+💐 Iqbal Flower Shop	React · Laravel	Local flower shop e-commerce system
+📊 Alpha Trading Society	Next.js · Node.js	Trading community & education platform
+🕌 HQuran Academy	React · Laravel	Online Quran learning & student management system
+🏢 Exlon Tech	Next.js · Full Stack	Corporate tech company website & services
 
 > 📁 **More projects on my [Portfolio →](https://noumanportfolio.vercel.app/)**
 
