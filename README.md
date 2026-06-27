@@ -45,14 +45,38 @@ I'm a **results-driven Full Stack Developer** with deep expertise in **MERN Stac
 
 | 🌐 Project | 🛠️ Stack | 📌 Description |
 |---|---|---|
-| 🍽️ **[Catering Bestilling NO](https://catering-bestilling-no.vercel.app/)** | React · Node.js · MongoDB | Norwegian catering order & booking platform |
-| 📈 **[HQA Fund](https://hqafund.org/)** | Next.js · Laravel · MySQL | Financial investment & fund management portal |
-| 🎮 **[The Genius Arena](https://thegeniusarena.com/)** | MERN Stack | Games tournament management system with real-time brackets |
-| 🛒 **[Asomaa](https://asomaa.com/)** | React · Node.js | E-commerce platform with seamless UX |
-| 💐 **[Iqbal Flower Shop](https://iqbalflowershopsargodha.com/)** | React · Laravel | Local business e-commerce with ordering system |
-| 📊 **[Alpha Trading Society](https://alphatradingsociety.com/)** | Next.js · Node.js | Trading community & educational platform |
-| 🕌 **[HQuran Academy](https://hquranacademy.com/)** | React · Laravel | Online Quran learning & student management system |
-| 🏢 **[Exlon Tech](https://exlontech.com/)** | Next.js · Full Stack | Corporate tech company website — built & maintained |
+| 🍽️ Catering Bestilling NO (Vendor Panel) | React · Node.js · MongoDB | Norwegian catering order & booking platform |
+| https://catering-bestilling-no-vendor-panel.vercel.app/ |
+
+| 🍽️ Catering Bestilling NO | React · Node.js · MongoDB | Norwegian catering order & booking platform |
+| https://catering-bestilling-no.vercel.app/ |
+
+| 🏢 Global Minds Consultants | Full Stack | Consultancy & business services platform |
+| https://globalmindsconsultants.com/ |
+
+| 🖥️ Exlon Tech POS (Distribution System) | Next.js · Full Stack | POS system for distribution & retail management |
+| https://distribution.exlontech.com/ |
+
+| 📈 HQA Fund | Next.js · Laravel · MySQL | Financial investment & fund management portal |
+| https://hqafund.org/ |
+
+| 🎮 The Genius Arena | MERN Stack | Real-time gaming tournament management system |
+| https://thegeniusarena.com/ |
+
+| 🛒 Asomaa | React · Node.js | Modern e-commerce platform with smooth UX |
+| https://asomaa.com/ |
+
+| 💐 Iqbal Flower Shop | React · Laravel | Local flower shop e-commerce system |
+| https://iqbalflowershopsargodha.com/ |
+
+| 📊 Alpha Trading Society | Next.js · Node.js | Trading community & education platform |
+| https://alphatradingsociety.com/ |
+
+| 🕌 HQuran Academy | React · Laravel | Online Quran learning & student management system |
+| https://hquranacademy.com/ |
+
+| 🏢 Exlon Tech | Next.js · Full Stack | Corporate tech company website & services |
+| https://exlontech.com/ |
 
 > 📁 **More projects on my [Portfolio →](https://noumanportfolio.vercel.app/)**
 
