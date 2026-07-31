@@ -36,22 +36,117 @@ I build scalable, production-grade web applications using the **MERN Stack** (**
 
 ### 🏆 Live Client Projects — Real-World Full Stack Delivery
 🔥 **10+ production applications successfully shipped for global clients**
+### 🏆 Live Client Projects — Real-World Full Stack Delivery
+🔥 **10+ production applications successfully shipped for global clients**
 
-| Project | What It Does |
-|---|---|
-| 🍽️ **[Catering Bestilling NO — Vendor Panel](https://catering-bestilling-no-vendor-panel.vercel.app/)** | Norwegian catering order & booking platform — vendor side |
-| 🍽️ **[Catering Bestilling NO](https://catering-bestilling-no.vercel.app/)** | Norwegian catering order & booking platform — client side |
-| 🏢 **[Global Minds Consultants](https://globalmindsconsultants.com/)** | Consultancy & business services platform |
-| 🖥️ **[Exlon Tech POS](https://distribution.exlontech.com/)** | Distribution & POS system for retail management |
-| 📈 **[HQA Fund](https://hqafund.org/)** | Financial investment & fund management portal |
-| 🎮 **[The Genius Arena](https://thegeniusarena.com/)** | Real-time gaming tournament management system |
-| 🛒 **[Asomaa](https://asomaa.com/)** | Modern e-commerce platform with smooth UX |
-| 💐 **[Iqbal Flower Shop](https://iqbalflowershopsargodha.com/)** | Local flower shop e-commerce system |
-| 📊 **[Alpha Trading Society](https://alphatradingsociety.com/)** | Trading community & education platform |
-| 🕌 **[HQuran Academy](https://hquranacademy.com/)** | Online Quran learning & student management system |
-| 🏢 **[Exlon Tech](https://exlontech.com/)** | Corporate tech company website & services |
+<table>
+<tr>
+<td width="50%">
 
-> 📁 **More projects on my [Portfolio →](https://noumanportfolio.vercel.app/)**
+**🍽️ Catering Bestilling NO — Vendor Panel**
+Norwegian catering order & booking platform (vendor side)
+<br>
+<a href="https://catering-bestilling-no-vendor-panel.vercel.app/"><img src="https://img.shields.io/badge/View%20Live-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+</td>
+<td width="50%">
+
+**🍽️ Catering Bestilling NO**
+Norwegian catering order & booking platform (client side)
+<br>
+<a href="https://catering-bestilling-no.vercel.app/"><img src="https://img.shields.io/badge/View%20Live-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+**🏢 Global Minds Consultants**
+Consultancy & business services platform
+<br>
+<a href="https://globalmindsconsultants.com/"><img src="https://img.shields.io/badge/View%20Live-4D96FF?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+
+</td>
+<td width="50%">
+
+**🖥️ Exlon Tech POS**
+Distribution & POS system for retail management
+<br>
+<a href="https://distribution.exlontech.com/"><img src="https://img.shields.io/badge/View%20Live-4D96FF?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+**📈 HQA Fund**
+Financial investment & fund management portal
+<br>
+<a href="https://hqafund.org/"><img src="https://img.shields.io/badge/View%20Live-6BCB77?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+
+</td>
+<td width="50%">
+
+**🎮 The Genius Arena**
+Real-time gaming tournament management system
+<br>
+<a href="https://thegeniusarena.com/"><img src="https://img.shields.io/badge/View%20Live-6BCB77?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+**🛒 Asomaa**
+Modern e-commerce platform with smooth UX
+<br>
+<a href="https://asomaa.com/"><img src="https://img.shields.io/badge/View%20Live-FFD93D?style=for-the-badge&logo=google-chrome&logoColor=black"/></a>
+
+</td>
+<td width="50%">
+
+**💐 Iqbal Flower Shop**
+Local flower shop e-commerce system
+<br>
+<a href="https://iqbalflowershopsargodha.com/"><img src="https://img.shields.io/badge/View%20Live-FFD93D?style=for-the-badge&logo=google-chrome&logoColor=black"/></a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+**📊 Alpha Trading Society**
+Trading community & education platform
+<br>
+<a href="https://alphatradingsociety.com/"><img src="https://img.shields.io/badge/View%20Live-9B5DE5?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+
+</td>
+<td width="50%">
+
+**🕌 HQuran Academy**
+Online Quran learning & student management system
+<br>
+<a href="https://hquranacademy.com/"><img src="https://img.shields.io/badge/View%20Live-9B5DE5?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+**🏢 Exlon Tech** — Corporate tech company website & services
+<br>
+<a href="https://exlontech.com/"><img src="https://img.shields.io/badge/View%20Live-00C2CB?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+
+</td>
+</tr>
+</table>
+
+<p align="center">📁 <b>More projects on my <a href="https://noumanportfolio.vercel.app/">Portfolio →</a></b></p>
 
 ## 🛠️ Tech Stack & Skills
 
