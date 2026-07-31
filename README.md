@@ -25,11 +25,12 @@
 
 ---
 
-### 👋 Hi, I'm [Your Name] — MERN Stack Expert & Full Stack Developer
+### 👋 Hi, I'm Muhammad Nouman Afzal — AI-Powered Full Stack Developer | MERN Stack Expert
 
-I build **scalable, production-grade web applications** using the **MERN Stack (MongoDB, Express.js, React.js, Node.js)**, **Next.js**, and **Laravel** — shipping **10+ live client projects** across fintech, e-commerce, education, and gaming platforms. Currently a **MERN Stack Developer @ [Exlon Tech](https://exlontech.com/)**, I specialize in **REST API development, real-time systems, admin dashboards**, and **AI-powered workflow automation** with Make.com & OpenAI.
+I build scalable, production-grade web applications using the **MERN Stack** (**MongoDB** · **Express.js** · **React.js** · **Node.js**), **Next.js**, and **Laravel** — shipping 10+ live client projects across fintech, e-commerce, education, and gaming platforms. Currently a **MERN Stack Developer @ Exlon Tech**, I specialize in **REST API development**, **real-time systems**, **admin dashboards**, and **AI-powered workflow automation** with **Make.com** & **OpenAI**.
 
-🎮 **Latest Build:** Real-time gaming tournament platform — [thegeniusarena.com](https://thegeniusarena.com/)  
+🛒 **Latest Build:** Full-scale catering marketplace for a Norway-based client — complete **Admin, Vendor & Client** system — [catering-bestilling-no.vercel.app](https://catering-bestilling-no.vercel.app/)
+
 🚀 **Open to:** Full-time roles · Remote work · Freelance contracts
 
 ## 🏆 Live Client Projects — Real-World Full Stack Delivery
