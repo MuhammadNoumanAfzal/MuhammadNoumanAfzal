@@ -34,12 +34,24 @@ I build scalable, production-grade web applications using the **MERN Stack** (**
 🚀 **Open to:** Full-time roles · Remote work · Freelance contracts
 ## 🚀 Featured Work
 
-| Project | Status | Live |
-|----------|--------|------|
-| 🍽️ Catering Bestilling NO | ![](https://img.shields.io/badge/Production-Live-success) | **Visit →** |
-| 🖥️ Exlon Tech POS | ![](https://img.shields.io/badge/Enterprise-Live-blue) | **Visit →** |
-| 🎮 The Genius Arena | ![](https://img.shields.io/badge/Gaming-Live-red) | **Visit →** |
-| 🛒 Asomaa | ![](https://img.shields.io/badge/Ecommerce-Live-orange) | **Visit →** |
+### 🏆 Live Client Projects — Real-World Full Stack Delivery
+🔥 **10+ production applications successfully shipped for global clients**
+
+| Project | What It Does |
+|---|---|
+| 🍽️ **[Catering Bestilling NO — Vendor Panel](https://catering-bestilling-no-vendor-panel.vercel.app/)** | Norwegian catering order & booking platform — vendor side |
+| 🍽️ **[Catering Bestilling NO](https://catering-bestilling-no.vercel.app/)** | Norwegian catering order & booking platform — client side |
+| 🏢 **[Global Minds Consultants](https://globalmindsconsultants.com/)** | Consultancy & business services platform |
+| 🖥️ **[Exlon Tech POS](https://distribution.exlontech.com/)** | Distribution & POS system for retail management |
+| 📈 **[HQA Fund](https://hqafund.org/)** | Financial investment & fund management portal |
+| 🎮 **[The Genius Arena](https://thegeniusarena.com/)** | Real-time gaming tournament management system |
+| 🛒 **[Asomaa](https://asomaa.com/)** | Modern e-commerce platform with smooth UX |
+| 💐 **[Iqbal Flower Shop](https://iqbalflowershopsargodha.com/)** | Local flower shop e-commerce system |
+| 📊 **[Alpha Trading Society](https://alphatradingsociety.com/)** | Trading community & education platform |
+| 🕌 **[HQuran Academy](https://hquranacademy.com/)** | Online Quran learning & student management system |
+| 🏢 **[Exlon Tech](https://exlontech.com/)** | Corporate tech company website & services |
+
+> 📁 **More projects on my [Portfolio →](https://noumanportfolio.vercel.app/)**
 
 ## 🛠️ Tech Stack & Skills
 
