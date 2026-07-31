@@ -25,19 +25,12 @@
 
 ---
 
-## 👨‍💻 About Me — MERN Stack Expert & Full Stack Developer
+### 👋 Hi, I'm [Your Name] — MERN Stack Expert & Full Stack Developer
 
-I'm a **results-driven Full Stack Developer** with deep expertise in **MERN Stack (MongoDB, Express.js, React.js, Node.js)**, **Laravel**, and **AI-powered workflow automations**. Currently working as a **MERN Developer at [Exlon Tech](https://exlontech.com/)**, I build scalable, high-performance web applications for global clients across diverse industries — from fintech and e-commerce to education and sports platforms.
+I build **scalable, production-grade web applications** using the **MERN Stack (MongoDB, Express.js, React.js, Node.js)**, **Next.js**, and **Laravel** — shipping **10+ live client projects** across fintech, e-commerce, education, and gaming platforms. Currently a **MERN Stack Developer @ [Exlon Tech](https://exlontech.com/)**, I specialize in **REST API development, real-time systems, admin dashboards**, and **AI-powered workflow automation** with Make.com & OpenAI.
 
-- 💼 **Current Role:** MERN Stack Developer @ [Exlon Tech](https://exlontech.com/)
-- 🔥 **Core Expertise:** React.js · Next.js · Node.js · Express.js · MongoDB · Laravel · MySQL
-- 🤖 **Automation Expert:** AI Workflow Automation using **Make.com** (learning advanced AI integrations)
-- 🎮 **Featured Build:** Scalable **Games Tournament Management Platform** — [thegeniusarena.com](https://thegeniusarena.com/)
-- 🌱 **Currently Leveling Up:** Advanced Laravel · AI Integrations · LLM-powered Applications
-- 💬 **Ask Me About:** React.js, Next.js, Node.js APIs, MongoDB, Laravel, REST APIs, Make.com Automation
-- ⚡ **Fun Fact:** I debug 10x faster with coffee ☕ — and ship on deadline, always.
-
----
+🎮 **Latest Build:** Real-time gaming tournament platform — [thegeniusarena.com](https://thegeniusarena.com/)  
+🚀 **Open to:** Full-time roles · Remote work · Freelance contracts
 
 ## 🏆 Live Client Projects — Real-World Full Stack Delivery
 
