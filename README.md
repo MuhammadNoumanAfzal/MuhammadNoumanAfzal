@@ -32,31 +32,14 @@ I build scalable, production-grade web applications using the **MERN Stack** (**
 🛒 **Latest Build:** Full-scale catering marketplace for a Norway-based client — complete **Admin, Vendor & Client** system — [catering-bestilling-no.vercel.app](https://catering-bestilling-no.vercel.app/)
 
 🚀 **Open to:** Full-time roles · Remote work · Freelance contracts
+## 🚀 Featured Work
 
-## 🏆 Live Client Projects — Real-World Full Stack Delivery
-
-
-### 🍽️ Catering Bestilling NO 🇳🇴
-> Complete Catering Marketplace for Norway with Client, Vendor & Admin portals.
-
-🌐 https://catering-bestilling-no.vercel.app/
-
----
-
-### 🖥️ Exlon Tech POS
-> Enterprise POS & Distribution Management System.
-
-🌐 https://distribution.exlontech.com/
-
----
-
-### 🎮 The Genius Arena
-> Real-time Gaming Tournament Platform.
-
-🌐 https://thegeniusarena.com/
-> 📁 **More projects on my [Portfolio →](https://noumanportfolio.vercel.app/)**
-
----
+| Project | Status | Live |
+|----------|--------|------|
+| 🍽️ Catering Bestilling NO | ![](https://img.shields.io/badge/Production-Live-success) | **Visit →** |
+| 🖥️ Exlon Tech POS | ![](https://img.shields.io/badge/Enterprise-Live-blue) | **Visit →** |
+| 🎮 The Genius Arena | ![](https://img.shields.io/badge/Gaming-Live-red) | **Visit →** |
+| 🛒 Asomaa | ![](https://img.shields.io/badge/Ecommerce-Live-orange) | **Visit →** |
 
 ## 🛠️ Tech Stack & Skills
 
