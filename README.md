@@ -25,19 +25,28 @@
 
 ---
 
-## 👨‍💻 About Me — MERN Stack Expert & Full Stack Developer
+<h1 align="center">Hi 👋, I'm [Your Name]</h1> <h3 align="center">MERN Stack Developer | Full Stack Developer | React.js • Next.js • Node.js • Laravel</h3> <p align="center"> Building scalable web apps, REST APIs & AI-powered automation @ <b>Exlon Tech</b> </p> <p align="center"> <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a> </p>
+🚀 About Me
 
-I'm a **results-driven Full Stack Developer** with deep expertise in **MERN Stack (MongoDB, Express.js, React.js, Node.js)**, **Laravel**, and **AI-powered workflow automations**. Currently working as a **MERN Developer at [Exlon Tech](https://exlontech.com/)**, I build scalable, high-performance web applications for global clients across diverse industries — from fintech and e-commerce to education and sports platforms.
+MERN Stack Developer with hands-on experience building secure, scalable, high-performance web applications for E-commerce, Fintech, EdTech, Healthcare, SaaS, and Sports platforms. Skilled in RESTful API development, authentication systems, admin dashboards, and AI-powered workflow automation. Currently exploring AI Agents, LLM integrations, and Make.com automation to build intelligent, production-ready products.
 
-- 💼 **Current Role:** MERN Stack Developer @ [Exlon Tech](https://exlontech.com/)
-- 🔥 **Core Expertise:** React.js · Next.js · Node.js · Express.js · MongoDB · Laravel · MySQL
-- 🤖 **Automation Expert:** AI Workflow Automation using **Make.com** (learning advanced AI integrations)
-- 🎮 **Featured Build:** Scalable **Games Tournament Management Platform** — [thegeniusarena.com](https://thegeniusarena.com/)
-- 🌱 **Currently Leveling Up:** Advanced Laravel · AI Integrations · LLM-powered Applications
-- 💬 **Ask Me About:** React.js, Next.js, Node.js APIs, MongoDB, Laravel, REST APIs, Make.com Automation
-- ⚡ **Fun Fact:** I debug 10x faster with coffee ☕ — and ship on deadline, always.
+📌 Open to Full Stack / MERN Developer roles, freelance projects & open-source collaboration.
 
----
+🛠️ Tech Stack
+
+Frontend: Show Image Show Image Show Image Show Image Show Image
+
+Backend: Show Image Show Image Show Image Show Image
+
+Databases: Show Image Show Image Show Image
+
+AI & Automation: Show Image Show Image
+
+Tools: Show Image Show Image Show Image Show Image
+
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" height="165"/> </p>
+<p align="center"><i>💡 Open to collaborating on AI-powered apps, SaaS platforms & scalable full stack solutions.</i></p>
 
 ## 🏆 Live Client Projects — Real-World Full Stack Delivery
 
