@@ -36,52 +36,24 @@ I build scalable, production-grade web applications using the **MERN Stack** (**
 ## 🏆 Live Client Projects — Real-World Full Stack Delivery
 
 
-🔥 **10+ production applications successfully shipped for global clients.**
+### 🍽️ Catering Bestilling NO 🇳🇴
+> Complete Catering Marketplace for Norway with Client, Vendor & Admin portals.
 
-*   **🍽️ [Catering Bestilling NO (Vendor Panel)](https://catering-bestilling-no-vendor-panel.vercel.app/)**
-    *   *Stack:* `React` · `Node.js` · `MongoDB`
-    *   *Description:* Norwegian catering order & booking platform (Vendor Side)
+🌐 https://catering-bestilling-no.vercel.app/
 
-*   **🍽️ [Catering Bestilling NO](https://catering-bestilling-no.vercel.app/)**
-    *   *Stack:* `React` · `Node.js` · `MongoDB`
-    *   *Description:* Norwegian catering order & booking platform (Client Side)
+---
 
-*   **🏢 [Global Minds Consultants](https://globalmindsconsultants.com/)**
-    *   *Stack:* `Full Stack`
-    *   *Description:* Consultancy & business services platform
+### 🖥️ Exlon Tech POS
+> Enterprise POS & Distribution Management System.
 
-*   **🖥️ [Exlon Tech POS](https://distribution.exlontech.com/)**
-    *   *Stack:* `Next.js` · `Full Stack`
-    *   *Description:* Distribution system, POS system for retail management
+🌐 https://distribution.exlontech.com/
 
-*   **📈 [HQA Fund](https://hqafund.org/)**
-    *   *Stack:* `Next.js` · `Laravel` · `MySQL`
-    *   *Description:* Financial investment & fund management portal
+---
 
-*   **🎮 [The Genius Arena](https://thegeniusarena.com/)**
-    *   *Stack:* `MERN Stack`
-    *   *Description:* Real-time gaming tournament management system
+### 🎮 The Genius Arena
+> Real-time Gaming Tournament Platform.
 
-*   **🛒 [Asomaa](https://asomaa.com/)**
-    *   *Stack:* `React` · `Node.js`
-    *   *Description:* Modern e-commerce platform with smooth UX
-
-*   **💐 [Iqbal Flower Shop](https://iqbalflowershopsargodha.com/)**
-    *   *Stack:* `React` · `Laravel`
-    *   *Description:* Local flower shop e-commerce system
-
-*   **📊 [Alpha Trading Society](https://alphatradingsociety.com/)**
-    *   *Stack:* `Next.js` · `Node.js`
-    *   *Description:* Trading community & education platform
-
-*   **🕌 [HQuran Academy](https://hquranacademy.com/)**
-    *   *Stack:* `React` · `Laravel`
-    *   *Description:* Online Quran learning & student management system
-
-*   **🏢 [Exlon Tech](https://exlontech.com/)**
-    *   *Stack:* `Next.js` · `Full Stack`
-    *   *Description:* Corporate tech company website & services
-
+🌐 https://thegeniusarena.com/
 > 📁 **More projects on my [Portfolio →](https://noumanportfolio.vercel.app/)**
 
 ---
