@@ -5,7 +5,7 @@
 
 <br/>
 
-<h3>🚀 Full Stack Developer | MERN Stack Expert | Laravel Engineer | AI Automation Specialist</h3>
+<h3> Full Stack Developer | MERN Stack Expert | Laravel Engineer | AI Automation Specialist</h3>
 
 <p>
   <a href="https://noumanportfolio.vercel.app/" target="_blank">
