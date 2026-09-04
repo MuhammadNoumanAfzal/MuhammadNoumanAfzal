@@ -1,277 +1,134 @@
 <div align="center">
 
-<!-- Dynamic Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Nouman+Afzal;MERN+Stack+Expert+%F0%9F%9A%80;Full+Stack+Developer+%7C+Laravel+%7C+React;AI+%26+Workflow+Automation+Builder+%F0%9F%A4%96" alt="Typing SVG" />
+# Muhammad Nouman Afzal
 
-<br/>
-
-<h3> Full Stack Developer | MERN Stack Expert | Laravel Engineer | AI Automation Specialist</h3>
+### Full-Stack Developer · MERN Stack & Laravel · REST APIs & Admin Systems · AI-Powered Workflow Automation
 
 <p>
-  <a href="https://noumanportfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit%20Now-00D9FF?style=for-the-badge&labelColor=0D1117" />
-  </a>
-  <a href="https://linkedin.com/in/muhammd-nouman-afzal" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mnoumanafzal4@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://noumanportfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/muhammd-nouman-afzal" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mnoumanafzal4@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=muhammadnoumanafzal&color=00D9FF&style=flat-square&label=Profile+Views" />
-
 </div>
 
 ---
 
-### 👋 Hi, I'm Muhammad Nouman Afzal — MERN Stack Expert |  AI-Powered Full Stack Developer 
+## About
 
-I build scalable, production-grade web applications using the **MERN Stack** (**MongoDB** · **Express.js** · **React.js** · **Node.js**), and **Laravel** — shipping 10+ live client projects across fintech, e-commerce, education, and gaming platforms. Currently a **MERN Stack Developer @ Exlon Tech**, I specialize in **REST API development**, **real-time systems**, **admin dashboards**, and **AI-powered workflow automation** with **Make.com** & **N8N**.
+I build production web applications for real businesses — marketplaces, vendor/admin platforms, POS systems, and education systems — using **React, Node.js, Express, and MongoDB**, with **Laravel/PHP** for select backends. I've shipped and deployed **10+ live client projects** across fintech, e-commerce, education, and gaming. I currently work as a **MERN Stack Developer at Exlon Tech**, and separately build **AI-powered workflow automations** with Make.com and n8n.
 
-🛒 **Latest Build:** Full-scale catering marketplace for a Norway-based client — complete **Admin, Vendor & Client** system — [catering-bestilling-no.vercel.app](https://catering-bestilling-no.vercel.app/)
-
-🚀 **Open to:** Full-time roles · Remote work · Freelance contracts
-## 🚀 Featured Work
-
-### 🏆 Live Client Projects — Real-World Full Stack Delivery
-🔥 **10+ production applications successfully shipped for global clients**
-### 🏆 Live Client Projects — Real-World Full Stack Delivery
-🔥 **10+ production applications successfully shipped for global clients**
-
-<table>
-<tr>
-<td width="50%">
-
-**🍽️ Catering Bestilling NO — Vendor Panel**
-Norwegian catering order & booking platform (vendor side)
-<br>
-<a href="https://catering-bestilling-no-vendor-panel.vercel.app/"><img src="https://img.shields.io/badge/View%20Live-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-
-</td>
-<td width="50%">
-
-**🍽️ Catering Bestilling NO**
-Norwegian catering order & booking platform (client side)
-<br>
-<a href="https://catering-bestilling-no.vercel.app/"><img src="https://img.shields.io/badge/View%20Live-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-**🏢 Global Minds Consultants**
-Consultancy & business services platform
-<br>
-<a href="https://globalmindsconsultants.com/"><img src="https://img.shields.io/badge/View%20Live-4D96FF?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-
-</td>
-<td width="50%">
-
-**🖥️ Exlon Tech POS**
-Distribution & POS system for retail management
-<br>
-<a href="https://distribution.exlontech.com/"><img src="https://img.shields.io/badge/View%20Live-4D96FF?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-**📈 HQA Fund**
-Financial investment & fund management portal
-<br>
-<a href="https://hqafund.org/"><img src="https://img.shields.io/badge/View%20Live-6BCB77?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-
-</td>
-<td width="50%">
-
-**🎮 The Genius Arena**
-Real-time gaming tournament management system
-<br>
-<a href="https://thegeniusarena.com/"><img src="https://img.shields.io/badge/View%20Live-6BCB77?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-**🛒 Asomaa**
-Modern e-commerce platform with smooth UX
-<br>
-<a href="https://asomaa.com/"><img src="https://img.shields.io/badge/View%20Live-FFD93D?style=for-the-badge&logo=google-chrome&logoColor=black"/></a>
-
-</td>
-<td width="50%">
-
-**💐 Iqbal Flower Shop**
-Local flower shop e-commerce system
-<br>
-<a href="https://iqbalflowershopsargodha.com/"><img src="https://img.shields.io/badge/View%20Live-FFD93D?style=for-the-badge&logo=google-chrome&logoColor=black"/></a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-**📊 Alpha Trading Society**
-Trading community & education platform
-<br>
-<a href="https://alphatradingsociety.com/"><img src="https://img.shields.io/badge/View%20Live-9B5DE5?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-
-</td>
-<td width="50%">
-
-**🕌 HQuran Academy**
-Online Quran learning & student management system
-<br>
-<a href="https://hquranacademy.com/"><img src="https://img.shields.io/badge/View%20Live-9B5DE5?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2" align="center">
-
-**🏢 Exlon Tech** — Corporate tech company website & services
-<br>
-<a href="https://exlontech.com/"><img src="https://img.shields.io/badge/View%20Live-00C2CB?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-
-</td>
-</tr>
-</table>
-
-<p align="center">📁 <b>More projects on my <a href="https://noumanportfolio.vercel.app/">Portfolio →</a></b></p>
-
-## 🛠️ Tech Stack & Skills
-
-### 🎨 Frontend Development
-![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🤖 AI & Automation
-![Make.com](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
-
-> 🧠 Building intelligent automation workflows · Integrating LLMs into production apps · AI-powered backends
-
-### 🔧 DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+**Open to:** Full-time roles · Remote positions · Freelance contracts
 
 ---
 
-## 🎮 Featured Project — Games Tournament Management Platform
+## Core Specialization
 
-<div align="center">
-
-**[🔗 thegeniusarena.com](https://thegeniusarena.com/)**
-
-</div>
-
-A production-grade, **scalable gaming tournament management system** built from scratch:
-
-- 🏆 **Tournament Brackets** — auto-generated, real-time updated bracket engine
-- 👾 **Player Registration** — full profile & team management system
-- 📊 **Admin Dashboard** — complete tournament control panel with analytics
-- ⚡ **Real-Time Updates** — WebSocket-powered live match feeds
-- 📱 **Fully Responsive** — mobile-first design across all devices
-
-**Stack:** React.js · Node.js · Express.js · MongoDB · Socket.io · TailwindCSS
+- Full-stack web application development (React / Node.js / Express / MongoDB)
+- REST API design and backend architecture
+- Admin, vendor, and role-based dashboard systems
+- Laravel backends with Eloquent ORM and authentication
+- AI-driven workflow automation (Make.com, n8n)
 
 ---
 
-## 📊 GitHub Stats
+## Selected Projects
+
+Each project below is a **live, deployed client build** — not a tutorial project.
+
+### Catering Bestilling NO — Marketplace Platform
+Multi-sided catering order & booking platform for a Norway-based client, with separate **client-facing** and **vendor-facing** applications.
+- Built both the client ordering flow and the vendor management panel
+- `[ADD DETAIL: order/booking flow, vendor onboarding, or payment handling if applicable]`
+- **Stack:** React.js, Node.js, Express.js, MongoDB
+- [Client site →](https://catering-bestilling-no.vercel.app/) · [Vendor panel →](https://catering-bestilling-no-vendor-panel.vercel.app/)
+
+### The Genius Arena — Gaming Tournament Platform
+Real-time tournament management system built from scratch.
+- Auto-generated, live-updating bracket engine
+- Player/team registration and profile management
+- Admin dashboard with tournament controls and analytics
+- Real-time match updates via WebSockets
+- **Stack:** React.js, Node.js, Express.js, MongoDB, Socket.io, Tailwind CSS
+- [View live →](https://thegeniusarena.com/)
+
+### Exlon Tech — Distribution & POS System
+Retail distribution and point-of-sale management system.
+- `[ADD DETAIL: inventory tracking, multi-branch support, reporting, or role-based access if applicable]`
+- [View live →](https://distribution.exlontech.com/)
+
+### HQA Fund
+Financial investment and fund management portal.
+- `[ADD DETAIL: what the portal manages — investor accounts, fund tracking, reporting dashboards, etc.]`
+- [View live →](https://hqafund.org/)
+
+### HQuran Academy
+Online learning platform with student management.
+- `[ADD DETAIL: enrollment flow, class scheduling, progress tracking, etc.]`
+- [View live →](https://hquranacademy.com/)
+
+### Asomaa & Iqbal Flower Shop
+E-commerce platforms for retail clients — product catalog, cart, and checkout flows.
+- [Asomaa →](https://asomaa.com/) · [Iqbal Flower Shop →](https://iqbalflowershopsargodha.com/)
+
+### Alpha Trading Society & Global Minds Consultants
+Community/education platform and a consultancy services site.
+- [Alpha Trading Society →](https://alphatradingsociety.com/) · [Global Minds Consultants →](https://globalmindsconsultants.com/)
+
+**More projects on my [portfolio →](https://noumanportfolio.vercel.app/)**
+
+---
+
+## Technology Stack
+
+**Frontend**
+React.js, Next.js, JavaScript, Tailwind CSS, Redux, Framer Motion, GSAP, HTML5, CSS3
+
+**Backend**
+Node.js, Express.js, Laravel, PHP, REST APIs
+
+**Databases**
+MongoDB, MySQL, PostgreSQL
+
+**AI & Automation**
+Make.com, n8n, OpenAI API `[CONFIRM: production use vs. exploratory]`
+
+**DevOps & Tools**
+Git, GitHub, Docker, Postman, Vercel, VS Code
+
+---
+
+## What I Bring
+
+- **Full-stack delivery** — from database design to deployed UI, across React/Node and Laravel/PHP stacks
+- **Real client work** — 10+ live, production applications for businesses across multiple industries
+- **API-first backends** — REST API design, authentication, and admin/role-based systems
+- **Automation** — building AI-assisted workflows to reduce manual business processes
+- **Deployment-ready** — comfortable shipping to Vercel and managing production environments
+
+---
+
+## GitHub Activity
 
 <div align="center">
-
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=muhammadnoumanafzal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadnoumanafzal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadnoumanafzal&theme=tokyonight&hide_border=true" />
-
 </div>
 
 ---
 
-## 🐍 Contribution Activity
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MuhammadNoumanAfzal/MuhammadNoumanAfzal/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
-</div>
-
----
-
-## 💡 What I Bring to Your Team
-
-```
-✅ MERN Stack Expert — React, Next.js, Node.js, Express, MongoDB
-✅ Laravel Backend — REST APIs, Eloquent ORM, Auth systems, Queues
-✅ AI & Automation — Make.com workflows, OpenAI integrations, LLM-powered apps
-✅ Real Client Delivery — 10+ live production projects across global industries
-✅ Clean Code — Scalable architecture, reusable components, API-first design
-✅ Fast Turnaround — Agile mindset, deadline-driven, async-ready
-```
-
----
-
-## 🤝 Let's Build Something Great
+## Let's Connect
 
 <div align="center">
 
-**Open to Full-Time Roles · Remote Projects · Freelance Contracts**
+**Open to full-time roles, remote work, and freelance contracts.**
 
-<a href="https://linkedin.com/in/muhammd-nouman-afzal">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:mnoumanafzal4@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://noumanportfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<br/><br/>
-
-⭐ **If my work helps you, drop a star on my repos — it means the world!** ⭐
+<a href="https://linkedin.com/in/muhammd-nouman-afzal"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:mnoumanafzal4@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://noumanportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-View%20Work-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </div>
 
----
-
 <div align="center">
-  <sub>🚀 MERN Stack Developer · Full Stack Engineer · React.js Expert · Node.js Developer · Laravel Developer · AI Automation · Make.com · Next.js · MongoDB · REST API · JavaScript · TypeScript · Pakistan</sub>
+<sub>Full-Stack Developer · MERN Stack · React.js · Node.js · Laravel · REST API · MongoDB · AI Automation</sub>
 </div>
